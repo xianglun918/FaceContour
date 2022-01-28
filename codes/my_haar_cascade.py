@@ -42,7 +42,6 @@ def my_haar_cascade(gray):
         if w * h > 30000:
             ret.append([x-50, y-70, w+80, h+100])
             
-        
     return ret
 
 if __name__ == '__main__':
