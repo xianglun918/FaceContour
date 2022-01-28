@@ -12,7 +12,7 @@ import cv2
 from matplotlib import pyplot as plt
 import imutils
 
-# Some pre-defined parameters
+# Use pre-trained model defined in .xml file.
 FACE_XML = "./opencv_xml/haarcascade_frontalface_default.xml"
 
 def obj_detect(img, xml, scale=1.1, nei=3):
