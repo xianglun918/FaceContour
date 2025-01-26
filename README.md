@@ -53,6 +53,4 @@ There are many other state-of-art methods to do the same thing. Please refer to 
 
 ## Star History
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=xianglun918/FaceContour&type=Date)](https://star-history.com/#xianglun918/FaceContour&Date)
