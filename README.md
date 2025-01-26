@@ -50,3 +50,9 @@ It includes all the auxiliary materials: reference papers.
 ### Addition
 
 There are many other state-of-art methods to do the same thing. Please refer to the recent best student paper on CVPR about background matting. And I just noticed last week that there are a library called "kornia" that has a good example of doing mapping as well. I am planning to dip into in the future. Well, thanks for visiting my repo. And, happy tiger year! (2022.01.28, xianglun918)
+
+## Star History
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xianglun918/FaceContour&type=Date)](https://star-history.com/#xianglun918/FaceContour&Date)
